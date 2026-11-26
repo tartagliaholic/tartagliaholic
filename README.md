@@ -5,7 +5,7 @@
 </p>
 
 $$
-\color{#D8C5A0}{\textsf{One kiss, then we fucking}}
+\color{#D8C5A0}{\textsf{𝓞ne kiss, 𝓣hen we fucking}}
 $$
 
 $$
