@@ -21,7 +21,7 @@ $$
 $$
 
 $$
-\color{#D8C5A0}{\textsf{other than love}}
+\color{#D8C5A0}{\textsf{𝓞𝓽𝓱er 𝓣𝓱an 𝓛𝓸ve}}
 $$
 <p align="center">
   <a href="LINK_MUON_CHUYEN_DEN">
