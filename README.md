@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\color{#B8A6CE}{\textsf{𝓟𝓾t 𝓘𝓽 𝓞n 𝓜e, that's the best part, baby, the trust}}
+\color{#B8A6CE}{\textsf{𝓟𝓾t 𝓘𝓽 𝓞n 𝓜e, 𝓣𝓱at's 𝓣𝓱e 𝓑𝓮st 𝓟𝓪𝓻t, 𝓑𝓪by, 𝓣𝓱e 𝓣𝓻𝓾st}}
 $$
 
 $$
